@@ -41,12 +41,11 @@ Open command window:
 	$ cd C:\Minecraft\ForgeModding\MinecraftMod
 	$ gradlew build
 
-2. Copy C:\Minecraft\ForgeModding\MinecraftMod\build\libs\examplemod-0.1.jar into %appdata%\.minecraft\mods\
-3. Start Minecraft 
-  1. Edit Profile
-    1. Use version of Forge installed e.g. release 1.10.2-forge1.10.2-12.18.2.2114
-	2. Launcher visibility: Keep the launcher open
-	3. Save Profile
-  2.Play
-    1. Mod button
-      * Example Mod should be there with correct version number as specified in C:\Minecraft\ForgeModding\MinecraftMod\build.gradle 
+1. Copy C:\Minecraft\ForgeModding\MinecraftMod\build\libs\examplemod-0.1.jar into %appdata%\.minecraft\mods\
+2. Start Minecraft -> Edit Profile
+  1. Use version of Forge installed e.g. release 1.10.2-forge1.10.2-12.18.2.2114
+  2. Launcher visibility: Keep the launcher open
+  3. Save Profile
+3. Play
+  1. Mod button
+    * Example Mod should be there with correct version number as specified in C:\Minecraft\ForgeModding\MinecraftMod\build.gradle 
