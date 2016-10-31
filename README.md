@@ -36,8 +36,7 @@ Click on the Mods button and the "Example mod" should be there. Note: the versio
 
 ## Running in Minecraft
 
-1. Open command window
-
+Open command window:
 
 	$ cd C:\Minecraft\ForgeModding\MinecraftMod
 	$ gradlew build
