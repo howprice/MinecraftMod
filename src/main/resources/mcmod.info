@@ -9,7 +9,7 @@
   "updateUrl": "",
   "authorList": ["HowPrice"],
   "credits": "The Forge and FML guys, for making this example",
-  "logoFile": "",
+  "logoFile": "assets/HowPriceLogo.png",
   "screenshots": [],
   "dependencies": []
 }
