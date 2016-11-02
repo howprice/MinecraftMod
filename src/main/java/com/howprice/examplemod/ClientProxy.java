@@ -1,6 +1,6 @@
 package com.howprice.examplemod;
 
-import com.howprice.examplemod.client.render.items.ItemRenderRegister;
+import com.howprice.examplemod.client.render.item.ItemRenderRegister;
 
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;

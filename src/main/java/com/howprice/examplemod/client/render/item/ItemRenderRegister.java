@@ -1,7 +1,7 @@
-package com.howprice.examplemod.client.render.items;
+package com.howprice.examplemod.client.render.item;
 
 import com.howprice.examplemod.ExampleMod;
-import com.howprice.examplemod.items.ModItems;
+import com.howprice.examplemod.item.ModItems;
 
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraftforge.client.model.ModelLoader;
