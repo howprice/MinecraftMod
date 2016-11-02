@@ -1,5 +1,6 @@
 package com.howprice.examplemod;
 
+import com.howprice.examplemod.client.render.block.BlockRenderRegister;
 import com.howprice.examplemod.client.render.item.ItemRenderRegister;
 
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
@@ -16,6 +17,7 @@ public class ClientProxy extends CommonProxy
 		System.out.println("ClientProxy.preInit");
 		super.preInit(event);
 		ItemRenderRegister.registerItemRenderers();
+		BlockRenderRegister.registerBlockRenderer();
 	}
 
 	@Override

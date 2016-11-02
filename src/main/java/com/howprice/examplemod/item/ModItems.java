@@ -4,6 +4,8 @@ import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 
+// http://bedrockminer.jimdo.com/modding-tutorials/basic-modding-1-8/first-item/
+
 public class ModItems
 {
 	public static Item exampleItem;

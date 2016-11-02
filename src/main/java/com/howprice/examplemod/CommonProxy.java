@@ -1,5 +1,6 @@
 package com.howprice.examplemod;
 
+import com.howprice.examplemod.block.ModBlocks;
 import com.howprice.examplemod.item.ModItems;
 
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
@@ -13,6 +14,7 @@ public class CommonProxy
 	{
 		System.out.println("CommonProxy.preInit");
 		ModItems.createItems();
+		ModBlocks.createBlocks();
 	}
 
 	public void init(FMLInitializationEvent event)
