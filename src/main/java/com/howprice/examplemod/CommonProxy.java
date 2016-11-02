@@ -1,6 +1,6 @@
 package com.howprice.examplemod;
 
-import com.howprice.examplemod.items.ModItems;
+import com.howprice.examplemod.item.ModItems;
 
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
