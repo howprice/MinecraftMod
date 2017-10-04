@@ -11,10 +11,10 @@ Minecraft mod made with [Forge](https://files.minecraftforge.net/)
 1. Install Minecraft
 2. Install [Minecraft Forge](https://files.minecraftforge.net/)
 3. Install [Java SE JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-4. Set JAVA_HOME environment variable to installation folder e.g. C:\Program Files\Java\jre1.8.0_111
+4. Set JAVA_HOME environment variable to *JRE* installation folder e.g. C:\Program Files\Java\jre1.8.0_111
 5. Install [Eclipse](https://eclipse.org/downloads/eclipse-packages/)
 
-###Windows
+### Windows
 
 	$ cd C:\Minecraft\ForgeModding
 	$ git clone https://github.com/howprice/MinecraftMod
