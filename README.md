@@ -23,8 +23,8 @@ Minecraft mod made with [Forge](https://files.minecraftforge.net/)
 	
 1. Open Eclipse with workspace C:\Minecraft\ForgeModding\workspace
 2. Close the Welcome screen
-3. File->Import... Gradle->Gradle Project->Next  Project root directory = C:\Minecraft\MinecraftMod Next->Next->Finish->Overwrite
-4. Right-click on JRE System Library -> Properties and set Execution Environment to match JDK version e.g. JavaSE-1.8 (jre1.8.0_111)
+3. File->Import... Gradle->Gradle Project->Next-> Project root directory = C:\Minecraft\MinecraftMod Next->Next->Finish->Overwrite
+4. In Package Explorer, expand the MinecraftMod project, and right-click on JRE System Library -> Properties and set Execution Environment to match installed JDK version e.g. JavaSE-1.8 (jre1.8.0_111)
 
 ## Running in Eclipse
 
